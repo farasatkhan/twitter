@@ -1,8 +1,8 @@
 There is still a lot of work to do, so feel free to help out with development.
 
-# Demo:
-Email: Your email
-Pass : Your password
+# Demo: <br />
+Email: Your email <br />
+Pass : Your password <br />
 Message : Your message that need to be post.
 
 # Note:
